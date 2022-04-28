@@ -1,0 +1,169 @@
+
+body{
+    background-image:url("https://www.papeldeparedekig.com.br/wp-content/uploads/2020/12/papel-de-parede-promocional-F793-05.jpg");
+    background-size: 104%;
+    background-repeat: no-repeat;
+    
+   
+}
+.titulo{
+        color:rgb(250, 4, 4);
+        text-align: center;
+        font-size:150%;
+        font-weight: bold;
+        font-family:cursive;
+        background-color: rgba(240, 255, 240, 0.658);
+        padding:5px;
+        font-weight: bold;
+        text-transform: uppercase;  
+}
+
+.jogar{
+    background-color:rgba(245, 240, 240, 0.671);
+    border:solid;
+    border-color:rgb(214, 120, 12);
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.425);
+    text-transform: uppercase; 
+
+}.representante{
+    position:relative;
+    width:15%;
+    margin-top: -25%;
+    padding-left: 15%;
+    padding-bottom: 15%;
+}
+.frase1{
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 28px;
+
+    
+}
+.texto01{
+    padding:15px;
+    margin-top: 40px;
+    width:40%;
+    text-align: center;
+    margin-left: 30%;
+    border:solid;
+    border-color:rgb(216, 76, 11);
+    font-size: 22px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.39);
+    
+}
+.texto02{
+    margin:20px;
+}
+.escolha{
+    position:relative;
+    text-align: center;
+    font-size: 150%;
+    margin-top: 3%;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    padding: 5px;
+    border:solid ;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.425);
+    border-color:rgb(243, 140, 5);
+}
+h2{
+    border:solid; 
+    border-color:rgb(224, 110, 4);
+    margin: 25px;
+    width:40%;
+    text-align: center;
+    margin-left: 30%;
+    background-color:rgba(245, 240, 240, 0.678);
+   
+}
+.personagens{
+    position:absolute;
+    display: flex;
+    align-items: center;
+    width:100%;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    margin-left: 250px;
+    justify-content: space-around;
+    margin-top: -20px;
+    
+ 
+}
+.simba{
+    width: 60%;
+    border:solid;
+    border-radius: 50%;
+    background-color:rgba(66, 60, 55, 0.384);
+    box-shadow: 0 0 20px 5px rgb(253, 5, 5);;
+    border-color:rgba(253, 174, 3, 0.938);
+    
+}
+.pumba{
+    width:60%;
+    border:solid;
+    border-radius: 50%;
+    background-color:rgba(66, 60, 55, 0.384);
+    box-shadow: 0 0 20px 5px rgb(253, 5, 5);;
+    border-color:rgba(155, 92, 9, 0.699);
+
+    
+}
+.timao{
+    width:45%;
+    border:solid;
+    border-radius: 50%;
+    background-color:rgba(66, 60, 55, 0.384);
+    box-shadow: 0 0 20px 5px rgb(253, 5, 5);
+    border-color:rgba(253, 174, 3, 0.938);
+    
+}
+
+.escolhendopersonagem{
+    margin-top:50px;
+    text-align: center;
+    background-color: rgba(243, 124, 13, 0.575);
+    font-family:fantasy;
+    
+}
+
+/* a{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 4%;
+    
+} */
+div:hover{
+    transition: 2s;
+    
+}
+#submit{
+    border:solid;
+    border-radius: 20px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    border-color: rgba(46, 88, 36, 0.938);
+    background-color:rgba(240, 245, 241, 0.329);
+    color: rgb(17, 70, 17);
+}
+.rodape{
+    background-color: rgba(0, 0, 0, 0.678);
+    color: rgb(55, 14, 240);
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    padding:15.5px;
+    margin-top: 190px;
+    
+    
+}
+
+
