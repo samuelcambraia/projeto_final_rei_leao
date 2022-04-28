@@ -59,7 +59,7 @@ function fase1() {
   } 
   else if (fase3 == 2) {
       alert(
-        "Na ultima, 06? Serião?"
+        "Quase?"
       );
       location.replace("../html/gameover.html");
      break;
