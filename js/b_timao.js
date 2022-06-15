@@ -49,7 +49,7 @@ function fase1 (){
         alert(
           "Boa:)"
         );
-        location.replace("../html/uwin.html");
+        location.replace("../HTML/uwin.html");
       break;
     } else if (fase3 == 1) {
         alert(
