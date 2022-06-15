@@ -5,14 +5,14 @@ function fase1 (){
         alert(
           "Você acertou!)"
         );
-        location.replace("../html/timao2.html");
+        location.replace("../HTML/timao2.html");
       break;
     } 
     else if (fase1 == 1) {
         alert(
           "Uma hora dessa, seu poluente! "
         );
-        location.replace("../html/gameover.html");
+        location.replace("../HTML/gameover.html");
       break;
     } 
     else {
@@ -28,13 +28,13 @@ function fase1 (){
         alert(
           "Olha, Certa resposta!!"
         );
-        location.replace("../html/timao3.html");
+        location.replace("../HTML/timao3.html");
       break; 
     } else if (fase2 == 2) {
         alert(
           "Eroooou"
         );
-        location.replace("../html/gameover.html");
+        location.replace("../HTML/gameover.html");
       break; 
     } else {
         alert("Digite 1 ou 2");
@@ -55,7 +55,7 @@ function fase1 (){
         alert(
           "quase!"
         );
-        location.replace("../html/gameover.html");
+        location.replace("../HTML/gameover.html");
       break;
     } else {
         alert("Digite 1 ou 2");

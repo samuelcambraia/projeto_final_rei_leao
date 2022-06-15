@@ -28,13 +28,13 @@ function fase1 (){
         alert(
           "Olha, Certa resposta!!"
         );
-        location.replace("../html/pumba3.html");
+        location.replace("../HTML/pumba3.html");
       break;
     } else if (fase2 == 2) {
         alert(
           "Eroooou"
         );
-        location.replace("../html/gameover.html");
+        location.replace("../HTML/gameover.html");
       break;
     } else {
         alert("Digite 1 ou 2");
@@ -49,13 +49,13 @@ function fase1 (){
         alert(
           "YEEEEEY!:)"
         );
-        location.replace("../html/uwin.html");
+        location.replace("../HTML/uwin.html");
        break;
       } else if (fase3 == 2) {
         alert(
           "quase?"
         );
-        location.replace("../html/gameover.html");
+        location.replace("../HTML/gameover.html");
       break;
     } else {
         alert("Digite 1 ou 2");
